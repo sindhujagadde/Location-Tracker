@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="frequency">Frequency of location updates(in mins)</string>
+    <string name="results">No. of results</string>
+    <string name="save">SAVE</string>
+</resources>
